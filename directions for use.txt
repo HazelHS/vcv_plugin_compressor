@@ -1,0 +1,6 @@
+module1.cpp contains your compressor module's code, divided into:
+Module1 struct (lines 6-26): This is where you implement the DSP/audio processing logic
+Module1Widget struct (lines 30-53): This handles the UI layout (knobs, inputs, outputs)
+plugin.cpp handles plugin initialization
+plugin.hpp contains declarations and headers
+To extend your compressor's functionality, modify the pro

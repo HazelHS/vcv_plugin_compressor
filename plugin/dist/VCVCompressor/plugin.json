@@ -1,0 +1,22 @@
+{
+  "slug": "VCVCompressor",
+  "name": "VCV Compressor",
+  "version": "2.0.0",
+  "license": "MIT",
+  "brand": "Custom",
+  "author": "Nina",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "modules": [
+    {
+      "slug": "module1",
+      "name": "Compressor",
+      "description": "Simple audio compressor module",
+      "tags": ["Compressor", "Dynamics", "Effect"]
+    }
+  ]
+}
